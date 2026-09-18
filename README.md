@@ -48,8 +48,6 @@ Through academic and practical projects, I have explored financial forecasting, 
 ### Quantitative Finance & Risk
 `Quantitative Finance` · `Financial Analysis` · `Financial Analytics` · `Risk Management` · `Portfolio Optimization` · `ALM` · `VaR` · `TVaR` · `Monte Carlo Simulation` · `Markowitz` · `Fama-French` · `CIR` · `GARCH-DCC` · `Duration` · `Duration Gap` · `SCR`
 
-### Tools & Frameworks
-`TensorFlow` · `Keras` · `Streamlit` · `FastAPI` · `React` · `Blender` · `Unity` · `Git` · `GitHub`
 
 ---
 
